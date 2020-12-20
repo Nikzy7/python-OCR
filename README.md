@@ -1,5 +1,5 @@
 # Python-OCR
-Currently the project detects text in a frame using OpenCV EAST and then applies tesseract over the ROI.
+Currently the project detects text in a frame using OpenCV EAST and then applies tesseract over the ROI. Project for tutorial classes.
 
 ## How to run?
 install the given file tesseract.exe in the default directory
